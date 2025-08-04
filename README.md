@@ -31,7 +31,7 @@ https://huggingface.co/spaces/wenjin-lee/nlp-recipe-recommender-demo
 
 ### Selected Embedding: `model m7`
 
-After evaluating seven Word2Vec variants (m1–m7) on neighbor coherence and similarity strength, **model m7** was chosen for its superior semantic fidelity and highest overall similarity scores.
+After evaluating seven Word2Vec variants (m1–m7) on neighbor coherence and similarity strength, **model m7** was chosen for its better semantic fidelity and highest overall similarity scores to good neighbours.
 
 Training configuration for `model m7`:
 
