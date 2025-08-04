@@ -2,9 +2,9 @@
 
 ## Overview
 
-This project implements a **hybrid recipe recommendation system** that combines semantic ingredient embeddings with fine-grained, per-term re-ranking to deliver more relevant and robust recipe suggestions. At its core is a tailored Word2Vec ingredient embedding (model **m7**) augmented with TF-IDF weighting to down-weigh common ingredients (eg. salt, sugar).
+NLP self-directed learning project that implements a **hybrid recipe recommendation system** that combines semantic ingredient embeddings with fine-grained, per-term re-ranking to deliver more relevant and robust recipe suggestions. At its core is a tailored Word2Vec ingredient embedding (model **m7**) augmented with TF-IDF weighting to down-weigh common ingredients (eg. salt, sugar).
 
-The pipeline balances **global similarity** (via average ingredient vectors) with **local precision** (per-word matching), achieving a multi-stage retrieval that is both efficient and semantically aware.
+The pipeline balances global similarity (via average ingredient vectors) with local precision (per-word matching), achieving a multi-stage retrieval that is both efficient and semantically performant.
 
 ## Demo
 
