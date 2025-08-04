@@ -16,9 +16,7 @@ https://huggingface.co/spaces/wenjin-lee/nlp-recipe-recommender-demo
 
 - Custom-trained Word2Vec embeddings on ingredient tokens (model m7)
 - Hybrid ranking: initial coarse retrieval followed by TF-IDF-weighted, per-term re-ranking
-- Spelling correction and lemmatization in pre-processing (via SymSpell and NLP normalization)
 - Penalization for missing ingredients in similarity scoring
-- Efficient candidate selection (top-(k + 50)) to avoid unnecessary computation
 - Gradio demo for interactive exploration
 
 ## Learning Outcomes
