@@ -6,7 +6,7 @@ Self-directed NLP learning project that implements a **hybrid recipe recommendat
 
 The pipeline balances global similarity (via average ingredient vectors) with local precision (per-word matching), achieving a multi-stage retrieval that is both efficient and semantically performant.
 
-### Dataset Sourced from Roboflow Universe
+### Dataset Sourced from Kaggle
 [Dataset Source Link](https://www.kaggle.com/datasets/wilmerarltstrmberg/recipe-dataset-over-2m)
 
 ## Demo
